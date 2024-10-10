@@ -226,9 +226,8 @@ public class SecondActivity extends AppCompatActivity {
 ````
 ## OUTPUT
 
-![EX6output1](https://github.com/user-attachments/assets/42d37275-7f44-418f-bc1a-0e46bb1132eb)
-
-![EX6output2](https://github.com/user-attachments/assets/aab8a273-2360-4cef-b2e1-b9452ed2bb70)
+![image](https://github.com/user-attachments/assets/8ee84c91-2776-4df4-9c86-e20fbc1a7fca)
+![image](https://github.com/user-attachments/assets/9dd886bf-9db6-4580-8e23-f5ae361b3bda)
 
 
 ## RESULT
